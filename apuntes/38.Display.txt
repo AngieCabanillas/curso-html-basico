@@ -1,0 +1,18 @@
+---------------------------------------------------
+Los elementos inline sólo ocupan el espacio necesario para mostrar sus contenidos.
+
+-no margin ni padding top y bottom, sí left y right
+-no width ni height
+
+Elementos inline:
+<a> <span > <img> <b> <i> <small> <cite> <code> <em> <strong> <br> <button> <input> <label> <select> <textarea>
+-----------------------------------------
+Mientras los elementos block ocupa todo el espacio disponible hasta el final de su línea, aunque sus contenidos no ocupen todo el sitio.
+
+Elementos block:
+<div> <article> <section> <header> <footer> <aside> <table> <p> <video> <ul> <ol> <h1> <h2> <h3> <h4> <h5> <h6>
+------------------------------------------------
+Los elementos inline-block conservan las propiedades mas importantes de los elementos inline y block.
+-Los elementos estan en línea (inline)
+-Se puede dar width y height(block)
+-si margin y padding(block)

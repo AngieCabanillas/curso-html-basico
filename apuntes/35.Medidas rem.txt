@@ -1,0 +1,10 @@
+siempre un rem va ser 16 px porque toma el tamaño del "root" que es el elemento "html" y este tiene 16px de tamaño
+***************************
+es por eso que reiniciamos nuestros rem asi:
+html{
+	font-size: 62.5%;
+}
+
+-de esa manera nuestros rem valen 10 y le puedes acompañar de cualquier numero
+-------------------------
+esta medida no toma el tamaño de su padre, sino del contenedor "root" que viene a ser el html

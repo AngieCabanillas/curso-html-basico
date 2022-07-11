@@ -1,0 +1,9 @@
+PSEUDOCLASES:Define el estilo de UN ESTADO especial de un elemento
+hover-> al momento que paso el mouse por ahi
+active-> al momento de dar click
+
+PSEUDOELEMENTOS: Define el estilo de UNA PARTE especifica de un elemento
+after-> despues del elemento
+a::after{
+ content:"*";
+}

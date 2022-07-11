@@ -1,0 +1,2 @@
+ font-size: inherit;/*para heredar el tamaño de html -clase padre*/
+}

@@ -1,0 +1,3 @@
+fusion de tecnologias maneja un frontend y un backend
+
+Entiende como funciona un proyecto de incio a fin, hasta su produccion

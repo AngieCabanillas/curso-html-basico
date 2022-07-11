@@ -1,0 +1,25 @@
+.main-nav{
+    background-color: rgb(195, 195, 255);
+    list-style:none; /*quitar las viñetas*/
+    padding-left: 0px;
+}
+.main-nav__item{
+    display: inline-block;
+}
+.main-nav__item a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+/*PSEUDO CLASES*/
+.main-nav__item a:hover{
+    color: blueviolet;
+}
+.main-nav__item a:active {
+    color:red;
+}
+
+/*PSEUDO ELEMENTOS*/
+.main-nav__item a::after{
+    content: " | ";
+}

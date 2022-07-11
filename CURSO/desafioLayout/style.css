@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    background-color: rgb(233, 112, 233);
+    text-align: right;
+    position: relative;
+    
+}
+.nav li{
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    display: inline-block;
+}
+.logo{
+    position: absolute;
+    left: 0px;
+}
+
+.father {
+    width: 20px;
+    background-color: aqua;
+}
+.child {  
+    wi
+}
+
+
+

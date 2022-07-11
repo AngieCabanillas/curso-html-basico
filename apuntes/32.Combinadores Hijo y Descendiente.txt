@@ -1,0 +1,51 @@
+----------------------------------------------
+               HIJO
+*************HTML****************
+<div>
+        <article>
+            <p>soy un p</p>
+        </article>
+        <article>
+            <p>soy un p</p>
+        </article>
+        <section>
+            <div>
+                <p>soy un p</p>--red
+            </div>
+        </section>
+        <p>soy un p</p>--red
+    </div>
+
+*************CSS****************
+*COMBINADOR HIJO - CHILD*/
+/*TODOS LOS p QUE SEAN HIJOS DIRECTOS DE div*/
+/*div > p{
+    color: red;
+}*/
+
+*Solo se pintaron los hijos directos de div
+--------------------------------------------
+--------------------------------------------
+          DESCENDIENTE
+*************HTML****************
+<div>
+        <article>
+            <p>soy un p</p>
+        </article>
+        <article>
+            <p>soy un p</p>
+        </article>
+        <section>
+            <div>
+                <p>soy un p</p>--red
+            </div>
+        </section>
+        <p>soy un p</p>--red
+    </div>
+
+
+/*COMBINADOR DESCENDIENTE - DESCENDANT*/
+/*TODOS LOS p QUE ESTEN DENTRO DE div*/
+div p{
+    color: red;
+}

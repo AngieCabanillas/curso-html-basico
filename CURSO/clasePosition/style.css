@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    display:inline-block;
+}
+
+.box{
+    border-radius: 5px;
+    display:inline-block;
+}
+
+#one{
+    background-color: teal;
+    height: 100px;
+}
+
+#two{
+    /*RELATIVE: DESPLAZA EL ELEMENTO CON RELACION A SI MISMO. */
+    background-color:tan;
+    height: 50px;
+    position: relative;
+    right: 20px;
+    top: 20px;
+}
+
+
+/*INLINE BLOCK - no permite dar padding ni margin(arriba y abajo) ni manipular el width y height*/
+/*BLOCK - usa todo el widht para sus componentes*/

@@ -1,0 +1,10 @@
+<a href="http://youtube.com"> Visitar youtube </a>
+
+<> ->opening tag
+<> ->etiqut de cierre
+Visitar youtube ->contenido
+<a href="http://youtube.com"> Visitar youtube </a> ->elemento
+
+tiene atributo compuesto
+href -> nombre del atributo
+http://youtube.com -> valor del atributo

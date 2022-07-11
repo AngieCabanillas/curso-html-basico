@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.element-block{
+    background-color: rgb(203, 102, 203);
+    margin: auto;
+    margin: 15px;
+    padding: 10px;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav li{
+    display: inline-block;
+    border: 2px solid purple;
+    padding: 4px;
+    margin: 2px ;
+}
+/*span{
+    padding: 10px;
+    margin: 10px;
+}*/

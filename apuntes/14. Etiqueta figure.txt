@@ -1,0 +1,7 @@
+la imagen siempre debe estar en <figure> - etiqueta contenedora
+
+*estructura:
+<figure>
+	<img src="./hola" alt="figura de gatos"/>
+	<figcaption>figura de perrito</figcaption>
+</figure>

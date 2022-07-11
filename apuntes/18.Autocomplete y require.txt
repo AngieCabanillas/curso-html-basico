@@ -1,0 +1,25 @@
+codigo para calendario en uno solo todo
+***************************
+<label for="calendario">
+            <span>CALENDARIO</span>
+            <input type="datetime-local" name="calendario" id="calendario">
+</label>
+<input type="submit" >
+
+-------------------------------
+AUTOCOMPLETADO
+<label for="name">
+                <span>NOMBRE:</span>
+                <input type="text" name="name" id="name" autocomplete="name">
+</label>
+
+autocomplete="name"
+autocomplete="country"
+autocomplete="email"
+autocomplete="postal-code"
+**********************************************************
+REQUIRED
+<label for="name">
+                <span>NOMBRE:</span>
+                <input type="text" name="name" id="name" autocomplete="name" required>
+</label>

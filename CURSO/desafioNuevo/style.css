@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border: 5px rgb(101, 52, 216) solid;
+}
+
+.titulo{
+    text-align: center;
+    padding: 10px;
+    color: rgb(101, 52, 216);
+}
+
+.padre{
+    display: block;
+    text-align: center;
+}
+
+.caja{
+    display: block;
+}
+
+#uno{   
+    border: 3px purple solid;
+    width: 50vw;
+    margin: auto;
+    padding: 15px;
+    position: relative;
+    top: 15px;
+    background-color: rgb(236, 140, 209);
+    border-radius: 15px;
+}
+
+#dos{
+    border: 3px red solid;
+    width: 70vw;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(238, 115, 115);
+    border-radius: 15px;
+}

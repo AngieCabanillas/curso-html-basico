@@ -1,0 +1,30 @@
+Ttrabaja del lado del servidor
+(logica)
+
+Resuelve peticiones que llegan y muestra lo que obtiene
+
+Lenguajes:
+-nodejs
+-php
+-java
+-python
+-go
+-ruby
+
+Frameworkd
+*django(python)
+*laravel(php)
+*rails(ruby)
+*express(nodejs)
+*spring(java)
+
+Infraestructura
+*Google cloud
+*AWS
+*Digital ocean
+*Heroku
+
+Bases de datos
+*mongodb(NR)
+*mysql(R)
+*postgre

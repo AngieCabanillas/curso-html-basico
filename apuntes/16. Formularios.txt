@@ -1,0 +1,16 @@
+FORMULARIOS
+mediante ellos podemos interactuar con el cliente.
+
+*****************************
+id del INPUT y for y name de LABEL son IGUALES y***********************
+LABEL
+	SPAN
+	INPUT
+
+************************
+<form action="">
+        <label for="nombre">
+            <span>NOMBRE:</span>
+            <input type="text" id="nombre" placeholder="Angie">
+        </label>
+</form>

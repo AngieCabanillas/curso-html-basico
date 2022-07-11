@@ -1,0 +1,15 @@
+************HTML***********
+<!--<main>
+        <h2>soy un h2</h2>
+        <p>soy  un p</p>
+        <h2>soy un h2</h2>
+        <h3>soy un h3</h3>
+        <p>soy  un p</p>
+</main>-->
+
+************CSS***********
+/*COMBINADOR HERMANO GENERAL - GENERAL SIBLING*/
+/*TODOS LOS PARRAFOS SE PINTARON PORQUE SON HERMANOS GENERALES, h2, p, h3*/
+/*h2 ~ p{
+    color: red;
+}*/

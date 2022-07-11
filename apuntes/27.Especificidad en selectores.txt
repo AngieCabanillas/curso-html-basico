@@ -1,0 +1,17 @@
+1.IMPORTANCIA
+Si dos declaraciones tienen la misma importanciaa, la especificidad de las reglas decidirá cuál se debe aplicar. Si las reglas tienen la misma especificidad, el orden de las fuentes controla el resultado final.
+*Hoja de estilo de agente de usuario(estilos del navegador)
+*Declaraciones normales en hojas de estilo de autor(nuestro css)
+*Declaraciones importantes en hojas de estilo de autor(usar el !important)
+
+2.ESPECIFICIDAD
+!important       1,0,0,0,0
+inline styles    0,1,0,0,0
+#id              0,0,1,0,0
+.class           0,0,0,1,0
+tag              0,0,0,0,1
+
+
+
+3.ORDEN EN LAS FUENTES
+En tus estilos, las declaraciones al final del documento anularán a las que sucedan antes en caso de conflicto.

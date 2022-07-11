@@ -1,0 +1,11 @@
+INPUT
+Se usa para enviar informacion
+****************************
+<!--USAMOS INPUT PARA ENVIAR LOS DATOS DE UN FORMULARIO-->
+    <input type="submit" name="" id="" value="Nombre">
+------------------------------
+BUTTON
+Se usa para cualquier otra funcionalidad de la web
+***********************
+<!--USAMOS BUTTON TPO SUBMIT PARA CUALQUIER OTRO BOTON QUE NO SEA ENVIAR DATOS DE UN FORMULARIO-->
+    <button type="submit">Color preferido</button>

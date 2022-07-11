@@ -1,0 +1,29 @@
+FRONTEND
+desarrollador que va manejar las cosas del lado del cliente(navegador)
+interacciones
+HTML, CSS, JS, 
+
+framework de css
+BOOTSTRAP
+
+frameworks y librerias de JS
+ANGULAR, REACT, VUE
+
+preprocesadores de css
+LESS, STYLUS, SASS
+
+compilador/empaquetador de JS
+BABEL, WEBPACK
+
+*************************************
+BACKEND
+node, php, java,rubi
+
+FRAMEWOR 
+express, django, laravel, rail
+
+INFRAESTRUCTURA
+google cloud, digital ocean, heroku, aws
+
+BASES DE DATOS
+

@@ -1,0 +1,4 @@
+em 
+va tomar las medidas que tiene su padre directo
+em=elemento
+

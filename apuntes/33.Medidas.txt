@@ -1,0 +1,7 @@
+MEDIDA ABSOLUTA
+El tamaño no cambia
+px
+
+MEDIDA RELATIVA
+Sí cambia
+%, em, rem, max-width, min-height,vw, vh

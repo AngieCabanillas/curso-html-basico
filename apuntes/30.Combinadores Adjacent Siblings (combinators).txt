@@ -1,0 +1,19 @@
+HERMANO ADYACENTE O CERCANO:
+
+SE PINTARON DE ROJO TODOS LOS PARRAFOS QUE ESTEN CERCA A H2  
+***********HTML***************
+<!--<main>
+        <h2>soy un h2</h2>
+        <p>soy  un p</p>red
+        <h2>soy un h2</h2>
+        <h3>soy un h3</h3>
+        <p>soy  un p</p>
+        <h2>soy un h2</h2>
+        <p>soy  un p</p>red
+    </main>-->
+
+***********CSS***************
+/*COMBINADOR HERMANO CERCANO - ADJACENT SIBLINGS*/
+/*h2 + p{
+    color: red;
+}*/

@@ -1,0 +1,8 @@
+tamaño promedio: 70kb
+
+opciones:
+*tiny PNG - mejora el tamaño de tus imagenes
+Comprime el tamaño de una imagen, para hacerla más ligera.
+
+*verexif - retira metadatos de tus imagenes (hora,fecha ->cel)
+Elimina los metadatos de una imagen, para reducir su tamaño.

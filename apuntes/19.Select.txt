@@ -1,0 +1,8 @@
+<select name="curso" id="">
+            <option value="curso1">CURSO 1</option>
+            <option value="curso2">CURSO 2</option>
+            <option value="curso3">CURSO 3</option>
+            <option value="curso4">CURSO 4</option>
+</select>
+
+value="curso1" ->guarda en la bd

@@ -1,0 +1,9 @@
+p{
+	color: red;
+}
+
+***************************
+SELECTOR:p
+DECLARACION:color: red;
+PROPIEDAD:color:
+VALOR DE LA PROPIEDAD:red; 

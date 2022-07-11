@@ -1,0 +1,22 @@
+/*COMBINADOR HERMANO CERCANO - ADJACENT SIBLINGS*/
+/*h2 + p{
+    color: red;
+}*/
+
+/*COMBINADOR HERMANO GENERAL - GENERAL SIBLING*/
+/*TODOS LOS PARRAFOS SE PINTARON PORQUE SON HERMANOAS GENERALRES, h2, p, h3*/
+/*h2 ~ p{
+    color: red;
+}*/
+
+/*COMBINADOR HIJO - CHILD*/
+/*TODOS LOS p QUE SEAN HIJOS DIRECTOS DE div*/
+/*div > p{
+    color: red;
+}*/
+
+/*COMBINADOR DESCENDIENTE - DESCENDANT*/
+/*TODOS LOS p QUE ESTEN DENTRO DE div*/
+div p{
+    color: red;
+}

@@ -1,0 +1,12 @@
+etiqueta video
+
+ <video  controls preload="auto">
+            <source src="./video1.mp4#t=2,10"> 
+            </video>
+
+*controls: para q aparezcan los controles en el video
+*preload: renderiza y carga el video rapidamente
+<source>: controlar la reproduccion del video y cambiar formato tambien
+***cambiando formato
+src="./video1.mp4#t=2,10"
+

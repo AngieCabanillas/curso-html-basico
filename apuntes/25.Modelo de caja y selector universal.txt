@@ -1,0 +1,9 @@
+/*SELECTOR UNIVERSAL PARA REINICIAR MIS ESTILOS*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;/*PARA QUE EL WIDTH SE AJUSTE A MI VENTANA*/
+}
+
+*****PROPIEDAD IMPORTANTE
+box-sizing: border-box;

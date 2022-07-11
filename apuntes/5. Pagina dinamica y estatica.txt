@@ -1,0 +1,8 @@
+1.PAGINAS ESTATICAS:
+paginas informativas, landing page
+Tienen pura informacion, no cambia
+no estan conectadas a un servidor o s ls bd
+
+2.PAGINAS DINAMICAS:
+WebApps
+Son tipo aplicaciones y estan conectadas a una bd porque el cliente genera interaccion con la pagina, se tiene que guardar informacion, login

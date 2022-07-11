@@ -1,0 +1,14 @@
+hacer comentario en css
+/*comentario*/
+**************************
+POR ETIQUETA
+p{
+}
+
+POR CLASE
+.parrafo{	
+}
+
+POR ID
+#texto{
+}

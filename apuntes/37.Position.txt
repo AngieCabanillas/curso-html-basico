@@ -1,0 +1,16 @@
+-static -> por defecto(no usamos los 4 lados)
+
+-absolute
+el elemento se coloca adelante del que le sigue, lo tapa
+me permite moverlo para los 4 lados()
+*se mueve pero pierde su lugar
+
+-relative
+me permite moverlo para los 4 lados()
+*se mueve pero su lugar se mantiene
+
+-fixed
+me permite moverlo para los 4 lados()
+
+-sticky
+me permite moverlo para los 4 lados()

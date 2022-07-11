@@ -1,0 +1,7 @@
+50vw -> la mitad del ancho
+60vh -> el 60% del height
+min-height
+max-height
+
+min-width
+max-width
